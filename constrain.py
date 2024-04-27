@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from ADRpy import unitconversions as co
 from ADRpy import constraintanalysis as ca
-from ADRpy import airworthiness as aw
+import airworthiness as aw
 
 from ADRpy import atmospheres as at
 # from streamlit_gsheets import GSheetsConnection
