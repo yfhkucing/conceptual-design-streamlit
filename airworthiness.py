@@ -12,7 +12,7 @@ point of view of meeting initial airworthiness requirements.
 
 """
 
-__author__ = "Yaseen Reza" #this is the original author of this module, not me. check it out at ADRpy for more info.
+__author__ = "Yaseen Reza" #this is the original author of the code in this specific file, not me. check it out at ADRpy for more info.
                            #I just copy this code from the module so it can return the diagrams instead of just array 
 
 import math
